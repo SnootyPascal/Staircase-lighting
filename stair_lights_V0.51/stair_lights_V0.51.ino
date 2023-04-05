@@ -1,4 +1,5 @@
 // made by SnootyPascal
+// this project is still under development 
 
 // Define each staircase light
 const int LED_pin_1  =  13;
